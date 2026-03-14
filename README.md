@@ -65,5 +65,11 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar café em c�
 
 Seja para trocar uma ideia sobre programação ou oportunidades:
 
+### 📫 Vamos nos conectar?
+
+Seja para trocar uma ideia sobre programação ou oportunidades:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ataide-de-oliveira-6593453a1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoataidedeoliveira@gmail.com)
+<a href="mailto:eduardoataidedeoliveira@gmail.com?subject=Olá Eduardo!&body=Vim pelo seu GitHub.">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
