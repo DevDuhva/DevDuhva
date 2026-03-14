@@ -2,9 +2,9 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Olá! Me chamo **Eduardo Ataide de Oliveira**, tenho 17 anos e sou natural de Belém do Pará . Atualmente moro em São Paulo e estou no 3º ano do curso técnico em Informática para Internet na **Etec Rodrigues de Abreu**. 
+Olá! Me chamo **Eduardo Ataide de Oliveira**, tenho 17 anos e sou natural de Belém do Pará 🏹. Atualmente moro em São Paulo e estou no 3º ano do curso técnico em Informática para Internet na **Etec Rodrigues de Abreu**. 
 
-Sou apaixonado por tecnologia e focado em evoluir no ecossistema Web e desenvolvimento de softwares, buscando sempre criar soluções eficientes e modernas.
+Sou apaixonado por tecnologia e focado em evoluir no ecossistema Web e desenvolvimento de softwares, buscando sempre criar soluções eficientes e elegantes.
 
 <p align="left">
     <a href="https://github.com/DevDuhva">
@@ -36,10 +36,8 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar café em c�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" alt="TypeScript" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" alt="React" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" alt="Next.js" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwind/tailwind-original.svg" width="40" title="Tailwind" alt="Tailwind" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" alt="Bootstrap" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" title="PHP" alt="PHP" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="40" title="Laravel" alt="Laravel" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" alt="Python" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" alt="Git" />
 </p>
@@ -67,5 +65,5 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar café em c�
 
 Seja para trocar uma ideia sobre programação ou oportunidades:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/EDUARDO-ATAIDE](https://www.linkedin.com/in/eduardo-ataide-de-oliveira-6593453a1 ))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ataide-de-oliveira-6593453a1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardoataidedeoliveira@gmail.com)
