@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack em Formação`**
 
-Olá! Me chamo **Eduardo Ataide de Oliveira**, tenho 17 anos e sou natural de Belém do Pará 🏹. Atualmente moro em São Paulo e estou no 3º ano do curso técnico em Informática para Internet na **Etec Rodrigues de Abreu**. 
+Olá! Me chamo **Eduardo Ataide de Oliveira**, tenho 17 anos e sou natural de Belém do Pará . Atualmente moro em São Paulo e estou no 3º ano do curso técnico em Informática para Internet na **Etec Rodrigues de Abreu**. 
 
 Sou apaixonado por tecnologia e focado em evoluir no ecossistema Web e desenvolvimento de softwares, buscando sempre criar soluções eficientes e elegantes.
 
