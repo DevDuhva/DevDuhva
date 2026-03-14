@@ -61,9 +61,6 @@ Aqui estão as ferramentas e linguagens que utilizo para transformar café em c�
 
 ---
 
-### 📫 Vamos nos conectar?
-
-Seja para trocar uma ideia sobre programação ou oportunidades:
 
 ### 📫 Vamos nos conectar?
 
